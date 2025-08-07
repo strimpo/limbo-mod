@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "limbo:limbo_concentrate"
+    },
+    {
+      "item": "limbo:limbo_concentrate"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "limbo:limbo_concentrate"
+    }
+  ],
+  "result": {
+    "item": "limbo:limbo_joint",
+    "count": 1
+  }
+}

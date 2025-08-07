@@ -1,0 +1,12 @@
+{
+  "paranoia": {
+    "category": "player",
+    "subtitle": "subtitles.paranoia",
+    "sounds": [
+      {
+        "name": "limbo:schizophrenicvoices",
+        "stream": false
+      }
+    ]
+  }
+}

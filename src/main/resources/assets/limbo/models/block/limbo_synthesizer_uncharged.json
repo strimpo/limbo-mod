@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "limbo:blocks/limbosynthesizerunchargedtopbottom",
+    "up": "limbo:blocks/limbosynthesizerunchargedtopbottom",
+    "north": "limbo:blocks/limbosynthesizerunchargedcenter",
+    "east": "limbo:blocks/limbosynthesizerunchargedside",
+    "south": "limbo:blocks/limbosynthesizerunchargedside",
+    "west": "limbo:blocks/limbosynthesizerunchargedside",
+    "particle": "limbo:blocks/limbosynthesizerunchargedtopbottom"
+  },
+  "render_type": "solid"
+}
