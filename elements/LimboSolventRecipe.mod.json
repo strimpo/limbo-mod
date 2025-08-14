@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Items.PRISMARINE_CRYSTALS"
+      },
+      {
+        "value": "CUSTOM:LimboDistillate"
+      },
+      {
+        "value": "Items.PRISMARINE_CRYSTALS"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LimboSolvent"
+    },
+    "name": "limbo_solvent_recipe",
+    "namespace": "mod"
+  }
+}

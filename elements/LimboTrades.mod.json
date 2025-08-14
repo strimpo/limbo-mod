@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "FARMER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": "Items.WHEAT"
+            },
+            "countPrice2": 31,
+            "offer": {
+              "value": "CUSTOM:LimboPetalUseable"
+            },
+            "countOffer": 5,
+            "level": 3,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

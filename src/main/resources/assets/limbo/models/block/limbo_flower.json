@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "limbo:blocks/limborose",
+    "particle": "limbo:blocks/limborose"
+  }
+}
