@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "limbo:limbo_block",
-    "limbo:limbo_synthesizer_charged",
-    "limbo:limbo_synthesizer_uncharged",
-    "limbo:crystallization_table"
-  ]
-}
